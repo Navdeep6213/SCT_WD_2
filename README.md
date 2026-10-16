@@ -54,6 +54,6 @@ The stopwatch application allows users to:
 
 ## Author
 
-**Piyush Tyagi**
+**Navdeep Sharma**
 
 SkillCraft Technology - Web Development Intern
